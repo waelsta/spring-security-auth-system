@@ -30,8 +30,8 @@ public class Employee {
     @Column(name="password")
     private String password;
 
-    @Column(name="role")
-    private Role role;
+    //@Column(name="role")
+    //private Role role;
 
 
 }
